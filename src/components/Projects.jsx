@@ -1,6 +1,25 @@
 import React from "react";
 
 const projectsData = [
+  
+  {
+    name: "Majestic Roams - Luxury Heritage",
+    description:
+      "Majestic Roams is a high-performance digital platform built for luxury heritage hotels and tour operators in Jaisalmer. It blends high-fidelity visual storytelling with a seamless reservation engine to offer discerning travelers an effortless gateway into Thar Desert luxury.",
+    skills: ["React", "Node", "Express", "MongoDB"],
+    image: "./majesticpic.png",
+    codeLink: "https://github.com/indrajeetsinghhmh/",
+    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
+  },
+  {
+    name: "SwiftHire",
+    description:
+      "SwiftHire is a full-stack freelancing marketplace connecting clients with top-tier talent through a real-time ecosystem.",
+    skills: ["React", "Tailwind CSS", "MongoDB", "SocketIO", "Node"],
+    image: "./swifthirepic.png",
+    codeLink: "https://github.com/indrajeetsinghhmh/",
+    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
+  },
   {
     name: "Devfeed",
     description:
@@ -18,24 +37,6 @@ const projectsData = [
     image: "./pro4.png",
     codeLink: "https://github.com/indrajeetsinghhmh/devfeed",
     liveDemoLink: "https://devfeed-e7sl.onrender.com/",
-  },
-  {
-    name: "Hotel Listing Site",
-    description:
-      "A responsive and feature-rich hotel listing site that allows users to browse and search for hotels, view details, and book rooms. The site provides a seamless user experience from search to booking.",
-    skills: ["React", "Node", "Express", "MongoDB"],
-    image: "./pro3.png",
-    codeLink: "https://github.com/indrajeetsinghhmh/",
-    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
-  },
-  {
-    name: "Portfolio",
-    description:
-      "My personal portfolio showcasing my skills, projects, and a way to connect with me. It is designed to be clean, modern, and fully responsive to showcase my work.",
-    skills: ["React", "Tailwind CSS"],
-    image: "./pro1.png",
-    codeLink: "https://github.com/indrajeetsinghhmh/",
-    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
   },
 ];
 
