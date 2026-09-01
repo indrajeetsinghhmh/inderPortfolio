@@ -9,7 +9,7 @@ const projectsData = [
     skills: ["React", "Node", "Express", "MongoDB"],
     image: "./majesticpic.png",
     codeLink: "https://github.com/indrajeetsinghhmh/",
-    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
+    liveDemoLink: "https://majesticroams.onrender.com/",
   },
   {
     name: "SwiftHire",
@@ -18,7 +18,7 @@ const projectsData = [
     skills: ["React", "Tailwind CSS", "MongoDB", "SocketIO", "Node"],
     image: "./swifthirepic.png",
     codeLink: "https://github.com/indrajeetsinghhmh/",
-    liveDemoLink: "https://github.com/indrajeetsinghhmh/",
+    liveDemoLink: "https://swift-hire-ebon.vercel.app/",
   },
   {
     name: "Devfeed",
